@@ -1,6 +1,3 @@
-#Kavinda Kashi Juliyan Gunasinghe
-#Student ID: 101222630
-#Custom Program (COS10009)
 
 #This is the heads up display bar that will display the energy and the score left for the user to identify
 class Hud < Engine::Sprite

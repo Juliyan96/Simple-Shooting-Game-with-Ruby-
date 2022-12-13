@@ -1,6 +1,3 @@
-#Kavinda Kashi Juliyan Gunasinghe
-#Student ID: 101222630
-#Custom Program (COS10009)
 
 #This is the menu class. this module is written to display the options available for the user to either choose new game, about or quit
 module Engine

@@ -1,5 +1,10 @@
 # Simple-Shooting-Game-with-Ruby-
-This is a simple shooting game developed using Ruby 
+This is a simple shooting game developed using Ruby
+
+Dependencies required:
+Gosu
+Snigleton
+MiniGL
 
 Instructions to play the game
 

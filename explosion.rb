@@ -1,6 +1,3 @@
-#Kavinda Kashi Juliyan Gunasinghe
-#Student ID: 101222630
-#Custom Program (COS10009)
 
 
 #This is the function written for the explosion as the bullet collides with the aliens, where the yellow coloured image will keep growing while becoming transparent

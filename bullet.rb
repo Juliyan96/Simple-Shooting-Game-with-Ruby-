@@ -1,6 +1,3 @@
-#Kavinda Kashi Juliyan Gunasinghe
-#Student ID: 101222630
-#Custom Program (COS10009)
 
 #This module is written for the movement of the fired bullets and for the bullet collision with the aliens
 class Bullet < Engine::Sprite

@@ -2,8 +2,8 @@
 This is a simple shooting game developed using Ruby
 
 Dependencies required:
-Gosu
-Snigleton
+Gosu,
+Singleton,
 MiniGL
 
 Instructions to play the game

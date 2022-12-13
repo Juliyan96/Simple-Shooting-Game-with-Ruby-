@@ -1,6 +1,3 @@
-#Kavinda Kashi Juliyan Gunasinghe
-#Student ID: 101222630
-#Custom Program (COS10009)
 
 
 #This is the class for the ship. This module will allow the ship to shoot bullets

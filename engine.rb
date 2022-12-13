@@ -1,6 +1,4 @@
-#Kavinda Kashi Juliyan Gunasinghe
-#Student ID: 101222630
-#Custom Program (COS10009)
+
 
 
 #This is the engine module which is required for the other modules to access each other to exchange sprites, fonts etc.

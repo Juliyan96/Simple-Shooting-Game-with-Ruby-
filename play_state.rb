@@ -1,7 +1,3 @@
-#Kavinda Kashi Juliyan Gunasinghe
-#Student ID: 101222630
-#Custom Program (COS10009)
-
 
 #This is the playstate class. This module contains the ingame functions when the player had chosen the new game option in the menu state
 module Engine

@@ -1,8 +1,6 @@
-#Kavinda Kashi Juliyan Gunasinghe
-#Student ID: 101222630
-#Custom Program (COS10009)
 
-#This state of the game is the about state which features the Name, Unit ID, and the Lecturer's name 
+
+#This state of the game is the about state which features the Name
 
 module Engine #Requires the engine module to access the hashmap of images and fonts
   
